@@ -1,4 +1,4 @@
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 StringIO
